@@ -1,3 +1,38 @@
 # projeto-Agrinho
 
 # Projeto desenvolido para o concurso Agrinho
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Agrinho</title>
+
+    </head>
+
+    <body>
+
+
+    <h1>Agro forte, futuro sustentável:Equilíbrio entre produção e meio ambiente</h1>
+
+    <h2> Sejam bem-vindos ao meu Projeto Agrinho 2026!</h2>
+
+    <p>Meu projeto visa apresentar como a força do campo e a preservação do planeta devem andar juntas. O Agronegócio é o motor que garante o alimento do mundo, mas seu verdadeiro poder deve ser alimentar nossa população enquanto protege nossos recursos naturais, combinando tecnologia e práticas agrícolas responsáveis para garantir um futuro mais verde e produtivo.</p>
+
+    <h3>Conservação em Harmonia:</h3>
+
+    <p>Falar em Agro Forte não significa apenas bater metas de colheita, mas garantir que nossa natureza, seja o solo, a água ou a biodiversidade, continuem saudáveis e puros para as próximas gerações. O equilíbrio entre a produção e o meio ambiente é um desafio sério e muito debatido nos últimos tempos. Quando o agricultor adota práticas sustentáveis, capazes de proteger nossa fauna e flora, ele não apenas protege nosso mundo, como também fortalece sua própria lavoura contra o excesso de produtos químicos e garante a segurança alimentar de pessoas de todo o planeta.</p>
+
+    <h4> Tecnologia e Consciência:</h4>
+
+    <p>O futuro sustentável já começou. Hoje a tecnologia é uma grande aliada nas produções e na preservação do meio ambiente. Por meio do uso calculado da água, do plantio correto e do controle de pragas, o produtor rural consegue reduzir os impactos que causaria e otimiza seus resultados, produzindo assim harmonia com a natureza local e mostrando que o campo pode ser inovador, consciente e vital para o desenvolvimento sustentável.</p>
+
+    <h5>Um compromisso de todos nós:</h5>
+
+    <p>O equilíbrio entre o campo e a natureza depende de cada um  de nós, desde o produtor até o consumidor. Juntos devemos conscientizar a população e apoiar as iniciativas que valorizam a sustentabilidade e garantem um amanhã limpo.</p>
+
+</body>
+
+</html>
